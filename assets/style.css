@@ -116,3 +116,8 @@ hr {
     border: 1px solid #e3ddd7;
     margin-block: 32px;
 }
+
+.modo::marker {
+    color: #854632;
+    font-weight: 700;
+}
